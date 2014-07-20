@@ -1,0 +1,25 @@
+{
+  "name": "jquery-fullscreen",
+  "version": "1.0.1",
+  "description": "jquery.fn.fullscreen 全屏插件",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "fullscreen"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery-fullscreen"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-fullscreen.js",
+    "dependencies": {}
+  }
+}
